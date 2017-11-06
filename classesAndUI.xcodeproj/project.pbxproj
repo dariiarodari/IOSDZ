@@ -12,6 +12,8 @@
 		C32EDAC71FB0EFF400BB654B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C32EDAC51FB0EFF400BB654B /* Main.storyboard */; };
 		C32EDAC91FB0EFF400BB654B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C32EDAC81FB0EFF400BB654B /* Assets.xcassets */; };
 		C32EDACC1FB0EFF400BB654B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C32EDACA1FB0EFF400BB654B /* LaunchScreen.storyboard */; };
+		C32EDAD41FB0F03700BB654B /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32EDAD31FB0F03700BB654B /* Note.swift */; };
+		C32EDAD61FB0FBAE00BB654B /* Structure.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32EDAD51FB0FBAE00BB654B /* Structure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		C32EDAC81FB0EFF400BB654B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C32EDACB1FB0EFF400BB654B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C32EDACD1FB0EFF400BB654B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C32EDAD31FB0F03700BB654B /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		C32EDAD51FB0FBAE00BB654B /* Structure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structure.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				C32EDAC81FB0EFF400BB654B /* Assets.xcassets */,
 				C32EDACA1FB0EFF400BB654B /* LaunchScreen.storyboard */,
 				C32EDACD1FB0EFF400BB654B /* Info.plist */,
+				C32EDAD31FB0F03700BB654B /* Note.swift */,
+				C32EDAD51FB0FBAE00BB654B /* Structure.swift */,
 			);
 			path = classesAndUI;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				C32EDAC41FB0EFF400BB654B /* ViewController.swift in Sources */,
 				C32EDAC21FB0EFF400BB654B /* AppDelegate.swift in Sources */,
+				C32EDAD41FB0F03700BB654B /* Note.swift in Sources */,
+				C32EDAD61FB0FBAE00BB654B /* Structure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
